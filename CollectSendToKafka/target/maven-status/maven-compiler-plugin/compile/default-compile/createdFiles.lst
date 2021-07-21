@@ -1,0 +1,3 @@
+com\rsvps\RsvpsWebSocketHandler.class
+com\rsvps\RsvpApplication.class
+com\rsvps\RsvpsKafkaProducer.class
