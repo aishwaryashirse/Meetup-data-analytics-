@@ -1,6 +1,4 @@
 
-### Technical Requirements
-This course has the following software requirements:<br/>
 Java 8
 Kafka
 MongoDB
@@ -8,7 +6,6 @@ Java compatible IDE
 
 __Environment Setup__
 
-This setup uses Kafka, Mongo and Java (1.8). Make sure you have all those available to you.
 
 To get help with Kafka setup visit https://kafka.apache.org/quickstart
 
